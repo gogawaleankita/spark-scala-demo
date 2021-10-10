@@ -3,6 +3,11 @@ https://medium.com/@josemarcialportilla/installing-scala-and-spark-on-windows-24
 winutils .exe
  https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe
 
-FOR UNbuntu 
+FOR UNbuntu
 
 https://medium.com/@josemarcialportilla/installing-scala-and-spark-on-ubuntu-5665ee4b62b1#.p6pn8r6gx
+
+To run the scala project :
+cd spark_installation directory
+> spark-shell
+> :load file_to_run
